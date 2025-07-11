@@ -15,7 +15,7 @@ On macOS/Linux:
 python3 -m venv venv
 - Activate The environment -
 source venv/bin/activate
-- Install Flask:
+- Install Flask -
 pip install flask
 - Run the file -
 python project.py
