@@ -1,4 +1,4 @@
-#TIME-Stories-API
+**TIME-Stories-API**
 
 A basic Flask application that scrapes the latest 6 stories from time.com using regular expressions. It uses only Python's built-in libraries and no external HTML parsers are required.
 
