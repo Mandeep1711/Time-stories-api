@@ -10,14 +10,14 @@ Features
 
 How to Run?
 - Install Python 3 
-- Create a virtual environment
+- Create a virtual environment -
 On macOS/Linux:
 python3 -m venv venv
-- Activate The environment 
+- Activate The environment -
 source venv/bin/activate
 - Install Flask:
 pip install flask
-- Run the file:
+- Run the file -
 python project.py
-- Open in browser:
+- Open in browser -
 http://127.0.0.1:5000/getTimeStories
